@@ -1,0 +1,10 @@
+[DEBUG] 2023-11-07 21:53:43.114 [main] Log4jDemo - Debug message
+[INFO ] 2023-11-07 21:53:43.116 [main] Log4jDemo - this is info message
+[WARN ] 2023-11-07 21:53:43.117 [main] Log4jDemo - Warn message
+[FATAL] 2023-11-07 21:53:43.117 [main] Log4jDemo - This is a fatal message
+[ERROR] 2023-11-07 21:53:43.117 [main] Log4jDemo - Error message
+[DEBUG] 2023-11-07 21:55:12.928 [main] Log4jDemo - Debug message
+[INFO ] 2023-11-07 21:55:12.930 [main] Log4jDemo - this is info message
+[WARN ] 2023-11-07 21:55:12.930 [main] Log4jDemo - Warn message
+[FATAL] 2023-11-07 21:55:12.930 [main] Log4jDemo - This is a fatal message
+[ERROR] 2023-11-07 21:55:12.931 [main] Log4jDemo - Error message
